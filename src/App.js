@@ -20,7 +20,7 @@ function App() {
           </div>
           <div className="timer">00:03</div>
           <div className="away">
-            <h2 className="away__name">Tigers</h2>
+            <h2 className="away__name">Patriots</h2>
             <div className="away__score">{awayScore}</div>
           </div>
         </div>
